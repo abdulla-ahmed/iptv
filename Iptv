@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya News
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1,BeinSport 1 HD
 http://stream.shabakaty.com:6001/sport/ch1/ch1_720.m3u8
 #EXTINF:-1,BeinSport 2 HD
@@ -614,4 +612,5 @@ http://stream.shabakaty.com:6001/kids/ch9/ch9_240.m3u8
 http://stream.shabakaty.com:6001/kids/ch10/ch10_240.m3u8
 #EXTINF:-1,alnajar_HITECH_PLUSS
 http://stream.shabakaty.com:6001/sport/ch1/ch1_240.m3u8
- 
+#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:iptvcat.com
