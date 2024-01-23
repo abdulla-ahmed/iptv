@@ -1,616 +1,861 @@
 #EXTM3U
-#EXTINF:-1,BeinSport 1 HD
-http://stream.shabakaty.com:6001/sport/ch1/ch1_720.m3u8
-#EXTINF:-1,BeinSport 2 HD
-http://stream.shabakaty.com:6001/sport/ch2/ch2_720.m3u8
-#EXTINF:-1,BeinSport 3 HD
-http://stream.shabakaty.com:6001/sport/ch3/ch3_720.m3u8
-#EXTINF:-1,BeinSport 4 HD
-http://stream.shabakaty.com:6001/sport/ch4/ch4_720.m3u8
-#EXTINF:-1,BeinSport 5 HD
-http://stream.shabakaty.com:6001/sport/ch5/ch5_720.m3u8
-#EXTINF:-1,BeinSport 6 HD
-http://stream.shabakaty.com:6001/sport/ch6/ch6_720.m3u8
-#EXTINF:-1,BeinSport 7 HD
-http://stream.shabakaty.com:6001/sport/ch7/ch7_720.m3u8
-#EXTINF:-1,BeinSport 8 HD
-http://stream.shabakaty.com:6001/sport/ch8/ch8_720.m3u8
-#EXTINF:-1,BeinSport 9 HD
-http://stream.shabakaty.com:6001/sport/ch9/ch9_720.m3u8
-#EXTINF:-1,BeinSport 10 HD
-http://stream.shabakaty.com:6001/sport/ch10/ch10_720.m3u8
-#EXTINF:-1,BeinSport 11 HD
-http://stream.shabakaty.com:6001/sport/ch11/ch11_720.m3u8
-#EXTINF:-1,BeinSport 12 HD
-http://stream.shabakaty.com:6001/sport/ch12/ch12_720.m3u8
-#EXTINF:-1,BeinSport 13 HD
-http://stream.shabakaty.com:6001/sport/ch13/ch13_720.m3u8
-#EXTINF:-1,OSN WWW HD
-http://stream.shabakaty.com:6001/sport/ch14/ch14_720.m3u8
-#EXTINF:-1,Alkass 1 HD
-http://stream.shabakaty.com:6001/sport/ch15/ch15_720.m3u8
-#EXTINF:-1,Alkass 2 HD
-http://stream.shabakaty.com:6001/sport/ch16/ch16_720.m3u8
-#EXTINF:-1,Alkass 3 HD
-http://stream.shabakaty.com:6001/sport/ch17/ch17_720.m3u8
-#EXTINF:-1,Alkass 4 HD
-http://stream.shabakaty.com:6001/sport/ch18/ch18_720.m3u8
-#EXTINF:-1,Alkass 5 HD
-http://stream.shabakaty.com:6001/sport/ch19/ch19_720.m3u8
-#EXTINF:-1,ADhabi SPORT 1 HD
-http://stream.shabakaty.com:6001/sport/ch20/ch20_720.m3u8
-#EXTINF:-1,ADhabi SPORT 2 HD
-http://stream.shabakaty.com:6001/sport/ch21/ch21_720.m3u8
-#EXTINF:-1,STAR MOVIES HD
-http://stream.shabakaty.com:6001/movies/ch11/ch11_720.m3u8
-#EXTINF:-1,STAR WORLD HD
-http://stream.shabakaty.com:6001/movies/ch10/ch10_720.m3u8
-#EXTINF:-1,OSN Movie HD
-http://stream.shabakaty.com:6001/movies/ch13/ch13_720.m3u8
-#EXTINF:-1,OSN Movie FIRST HD
-http://stream.shabakaty.com:6001/movies/ch15/ch15_720.m3u8
-#EXTINF:-1,OSN ON DEMAND HD
-http://stream.shabakaty.com:6001/movies/ch20/ch20_720.m3u8
-#EXTINF:-1,OSN ACTION HD
-http://stream.shabakaty.com:6001/movies/ch14/ch14_720.m3u8
-#EXTINF:-1,OSN SERIES FIRST HD
-http://stream.shabakaty.com:6001/series/ch9/ch9_720.m3u8
-#EXTINF:-1,OSN COMEDY HD
-http://stream.shabakaty.com:6001/movies/ch19/ch19_720.m3u8
-#EXTINF:-1,OSN ENIGMA HD
-http://stream.shabakaty.com:6001/movies/ch24/ch24_720.m3u8
-#EXTINF:-1,OSN YAHALA CINEMA HD
-http://stream.shabakaty.com:6001/movies/ch18/ch18_720.m3u8
-#EXTINF:-1,OSN YAHALA FIRST
-http://stream.shabakaty.com:6001/series/ch10/ch10_720.m3u8
-#EXTINF:-1,BEIN MOVIES1 HD
-http://stream.shabakaty.com:6001/movies/ch1/ch1_720.m3u8
-#EXTINF:-1,BEIN MOVIES2 HD
-http://stream.shabakaty.com:6001/movies/ch2/ch2_720.m3u8
-#EXTINF:-1,BEIN MOVIES3 HD
-http://stream.shabakaty.com:6001/movies/ch3/ch3_720.m3u8
-#EXTINF:-1,BEIN MOVIES4 HD
-http://stream.shabakaty.com:6001/movies/ch4/ch4_720.m3u8
-#EXTINF:-1,BEIN SERIES HD1
-http://stream.shabakaty.com:6001/series/ch1/ch1_720.m3u8
-#EXTINF:-1,BEIN DRAMA HD1
-http://stream.shabakaty.com:6001/series/ch3/ch3_720.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://stream.shabakaty.com:6001/movies/ch5/ch5_720.m3u8
-#EXTINF:-1,FOX ACTION MOVIES HD
-http://stream.shabakaty.com:6001/movies/ch6/ch6_720.m3u8
-#EXTINF:-1,FOX FAMILY MOVIES HD
-http://stream.shabakaty.com:6001/movies/ch7/ch7_720.m3u8
-#EXTINF:-1,FOX HD
-http://stream.shabakaty.com:6001/movies/ch9/ch9_720.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://stream.shabakaty.com:6001/movies/ch12/ch12_720.m3u8
-#EXTINF:-1,FX HD
-http://stream.shabakaty.com:6001/series/ch4/ch4_720.m3u8
-#EXTINF:-1,FOX RIWAEAT HD
-http://stream.shabakaty.com:6001/series/ch5/ch5_720.m3u8
-#EXTINF:-1,OSN YAHALA HD
-http://stream.shabakaty.com:6001/series/ch6/ch6_720.m3u8
-#EXTINF:-1,ON ARABIC HD
-http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
-#EXTINF:-1,ON TURKY HD
-http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
-#EXTINF:-1,ON ARABIC HD
-http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
-#EXTINF:-1,ON BOX OFFICE HD
-http://stream.shabakaty.com:6001/movies/ch26/ch26_720.m3u8
-#EXTINF:-1,ON BOLLYWOOD HD
-http://stream.shabakaty.com:6001/movies/ch27/ch27_720.m3u8
-#EXTINF:-1,ON COMEDY HD
-http://stream.shabakaty.com:6001/movies/ch28/ch28_720.m3u8
-#EXTINF:-1,SYFY HD
-http://stream.shabakaty.com:6001/series/ch7/ch7_720.m3u8
-#EXTINF:-1,TCM HD
-http://stream.shabakaty.com:6001/movies/ch8/ch8_720.m3u8
-#EXTINF:-1,CINEMA 1 HD
-http://stream.shabakaty.com:6001/movies/ch16/ch16_720.m3u8
-#EXTINF:-1,CINEMA 2 HD
-http://stream.shabakaty.com:6001/movies/ch17/ch17_720.m3u8
-#EXTINF:-1,ART CINEMA HD
-http://stream.shabakaty.com:6001/movies/ch21/ch21_720.m3u8
-#EXTINF:-1,ART AFLAM 1 HD
-http://stream.shabakaty.com:6001/movies/ch22/ch22_720.m3u8
-#EXTINF:-1,ART AFLAM 2 HD
-http://stream.shabakaty.com:6001/movies/ch23/ch23_720.m3u8
-#EXTINF:-1,AMC HD
-http://stream.shabakaty.com:6001/enter/ch17/ch17_720.m3u8
-#EXTINF:-1,MBC IRAQ HD
-http://stream.shabakaty.com:6001/enter/ch18/ch18_720.m3u8
-#EXTINF:-1,MBC+ VARIETY HD
-http://stream.shabakaty.com:6001/enter/ch25/ch25_720.m3u8
-#EXTINF:-1,MBC DRAMA+ HD
-http://stream.shabakaty.com:6001/series/ch8/ch8_720.m3u8
-#EXTINF:-1,TLC HD
-http://stream.shabakaty.com:6001/enter/ch21/ch21_720.m3u8
-#EXTINF:-1,E HD
-http://stream.shabakaty.com:6001/enter/ch22/ch22_720.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://stream.shabakaty.com:6001/enter/ch4/ch4_720.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
-#EXTINF:-1,NAT GEO PEAPLE HD
-http://stream.shabakaty.com:6001/enter/ch16/ch16_720.m3u8
-#EXTINF:-1,HISTORY HD
-http://stream.shabakaty.com:6001/enter/ch26/ch26_720.m3u8
-#EXTINF:-1,HISTORY HD
-http://stream.shabakaty.com:6001/enter/ch20/ch20_720.m3u8
-#EXTINF:-1,HISTORY2 HD
-http://stream.shabakaty.com:6001/enter/ch29/ch29_720.m3u8
-#EXTINF:-1,ANIMAL PLANIT HD
-http://stream.shabakaty.com:6001/enter/ch6/ch6_720.m3u8
-#EXTINF:-1,PLANET EARTH HD
-http://stream.shabakaty.com:6001/enter/ch30/ch30_720.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://stream.shabakaty.com:6001/enter/ch19/ch19_720.m3u8
-#EXTINF:-1,D SIENCE HD
-http://stream.shabakaty.com:6001/enter/ch24/ch24_720.m3u8
-#EXTINF:-1,DMAX HD
-http://stream.shabakaty.com:6001/enter/ch9/ch9_720.m3u8
-#EXTINF:-1,D FAMILY HD
-http://stream.shabakaty.com:6001/enter/ch27/ch27_720.m3u8
-#EXTINF:-1,DLIFE HD
-http://stream.shabakaty.com:6001/enter/ch2/ch2_720.m3u8
-#EXTINF:-1,DTX HD
-http://stream.shabakaty.com:6001/enter/ch3/ch3_720.m3u8
-#EXTINF:-1,ID HD
-http://stream.shabakaty.com:6001/enter/ch23/ch23_720.m3u8
-#EXTINF:-1,TRAVEL HD
-http://stream.shabakaty.com:6001/enter/ch11/ch11_720.m3u8
-#EXTINF:-1,OUTDOOR HD
-http://stream.shabakaty.com:6001/enter/ch10/ch10_720.m3u8
-#EXTINF:-1,HG TV HD
-http://stream.shabakaty.com:6001/enter/ch12/ch12_720.m3u8
-#EXTINF:-1,FINE LIVING HD
-http://stream.shabakaty.com:6001/enter/ch14/ch14_720.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://stream.shabakaty.com:6001/enter/ch15/ch15_720.m3u8
-#EXTINF:-1,FASHION BOX HD
-http://stream.shabakaty.com:6001/enter/ch28/ch28_720.m3u8
-#EXTINF:-1,CBS REALITY HD
-http://stream.shabakaty.com:6001/enter/ch1/ch1_720.m3u8
-#EXTINF:-1,BEIN GOURMET HD
-http://stream.shabakaty.com:6001/enter/ch7/ch7_720.m3u8
-#EXTINF:-1,FATAFEAT HD
-http://stream.shabakaty.com:6001/enter/ch8/ch8_720.m3u8
-#EXTINF:-1,FOOD HD
-http://stream.shabakaty.com:6001/enter/ch13/ch13_720.m3u8
-#EXTINF:-1,BRAEAM HD
-http://stream.shabakaty.com:6001/kids/ch1/ch1_720.m3u8
-#EXTINF:-1,BABY TV HD
-http://stream.shabakaty.com:6001/kids/ch2/ch2_720.m3u8
-#EXTINF:-1,BOMERANG HD
-http://stream.shabakaty.com:6001/kids/ch3/ch3_720.m3u8
-#EXTINF:-1,CN NETWORK HD
-http://stream.shabakaty.com:6001/kids/ch4/ch4_720.m3u8
-#EXTINF:-DESNY HD
-http://stream.shabakaty.com:6001/kids/ch5/ch5_720.m3u8
-#EXTINF:-1,JIM JAM HD
-http://stream.shabakaty.com:6001/kids/ch6/ch6_720.m3u8
-#EXTINF:-1,BE JUNIOR HD
-http://stream.shabakaty.com:6001/kids/ch7/ch7_720.m3u8
-#EXTINF:-1,JEE HD
-http://stream.shabakaty.com:6001/kids/ch8/ch8_720.m3u8
-#EXTINF:-1,D KIDS HD
-http://stream.shabakaty.com:6001/kids/ch9/ch9_720.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://stream.shabakaty.com:6001/kids/ch10/ch10_720.m3u8
-#EXTINF:-1,BeinSport 1 FHD
+
+#EXTINF:-1,Spanish ball
+
 http://stream.shabakaty.com:6001/sport/ch1/ch1_1080.m3u8
-#EXTINF:-1,BeinSport 2 FHD
+
+#EXTINF:-1,English ball 1
+
 http://stream.shabakaty.com:6001/sport/ch2/ch2_1080.m3u8
-#EXTINF:-1,BeinSport 3 FHD
+
+#EXTINF:-1,English ball 2
+
 http://stream.shabakaty.com:6001/sport/ch3/ch3_1080.m3u8
-#EXTINF:-1,BeinSport 4 FHD
+
+#EXTINF:-1, German ball 1
+
 http://stream.shabakaty.com:6001/sport/ch4/ch4_1080.m3u8
 
-#EXTINF:-1,BeinSport 1 SD
-http://stream.shabakaty.com:6001/sport/ch1/ch1_360.m3u8
-#EXTINF:-1,BeinSport 2 SD
-http://stream.shabakaty.com:6001/sport/ch2/ch2_360.m3u8
-#EXTINF:-1,BeinSport 3 SD
-http://stream.shabakaty.com:6001/sport/ch3/ch3_360.m3u8
-#EXTINF:-1,BeinSport 4 SD
-http://stream.shabakaty.com:6001/sport/ch4/ch4_360.m3u8
-#EXTINF:-1,BeinSport 5 SD
-http://stream.shabakaty.com:6001/sport/ch5/ch5_360.m3u8
-#EXTINF:-1,BeinSport 6 SD
-http://stream.shabakaty.com:6001/sport/ch6/ch6_360.m3u8
-#EXTINF:-1,BeinSport 7 SD
-http://stream.shabakaty.com:6001/sport/ch7/ch7_360.m3u8
-#EXTINF:-1,BeinSport 8 SD
-http://stream.shabakaty.com:6001/sport/ch8/ch8_360.m3u8
-#EXTINF:-1,BeinSport 9 SD
-http://stream.shabakaty.com:6001/sport/ch9/ch9_360.m3u8
-#EXTINF:-1,BeinSport 10 SD
-http://stream.shabakaty.com:6001/sport/ch10/ch10_360.m3u8
-#EXTINF:-1,BeinSport 11 SD
-http://stream.shabakaty.com:6001/sport/ch11/ch11_360.m3u8
-#EXTINF:-1,BeinSport 12 SD
-http://stream.shabakaty.com:6001/sport/ch12/ch12_360.m3u8
-#EXTINF:-1,BeinSport 13 SD
-http://stream.shabakaty.com:6001/sport/ch13/ch13_360.m3u8
-#EXTINF:-1,OSN WWW SD
-http://stream.shabakaty.com:6001/sport/ch14/ch14_360.m3u8
-#EXTINF:-1,Alkass 1 SD
-http://stream.shabakaty.com:6001/sport/ch15/ch15_360.m3u8
-#EXTINF:-1,Alkass 2 SD
-http://stream.shabakaty.com:6001/sport/ch16/ch16_360.m3u8
-#EXTINF:-1,Alkass 3 SD
-http://stream.shabakaty.com:6001/sport/ch17/ch17_360.m3u8
-#EXTINF:-1,Alkass 4 SD
-http://stream.shabakaty.com:6001/sport/ch18/ch18_360.m3u8
-#EXTINF:-1,Alkass 5 SD
-http://stream.shabakaty.com:6001/sport/ch19/ch19_360.m3u8
-#EXTINF:-1,ADhabi SPORT 1 SD
-http://stream.shabakaty.com:6001/sport/ch20/ch20_360.m3u8
-#EXTINF:-1,ADhabi SPORT 2 SD
-http://stream.shabakaty.com:6001/sport/ch21/ch21_360.m3u8
-#EXTINF:-1,STAR MOVIES SD
-http://stream.shabakaty.com:6001/movies/ch11/ch11_360.m3u8
-#EXTINF:-1,STAR WORLD SD
-http://stream.shabakaty.com:6001/movies/ch10/ch10_360.m3u8
-#EXTINF:-1,OSN Movie SD
-http://stream.shabakaty.com:6001/movies/ch13/ch13_360.m3u8
-#EXTINF:-1,OSN Movie FIRST SD
-http://stream.shabakaty.com:6001/movies/ch15/ch15_360.m3u8
-#EXTINF:-1,OSN ON DEMAND SD
-http://stream.shabakaty.com:6001/movies/ch20/ch20_360.m3u8
-#EXTINF:-1,OSN ACTION SD
-http://stream.shabakaty.com:6001/movies/ch14/ch14_360.m3u8
-#EXTINF:-1,OSN SERIES FIRST SD
-http://stream.shabakaty.com:6001/series/ch9/ch9_360.m3u8
-#EXTINF:-1,OSN COMEDY SD
-http://stream.shabakaty.com:6001/movies/ch19/ch19_360.m3u8
-#EXTINF:-1,OSN ENIGMA SD
-http://stream.shabakaty.com:6001/movies/ch24/ch24_360.m3u8
-#EXTINF:-1,OSN YAHALA CINEMA SD
-http://stream.shabakaty.com:6001/movies/ch18/ch18_360.m3u8
-#EXTINF:-1,OSN YAHALA FIRST
-http://stream.shabakaty.com:6001/series/ch10/ch10_360.m3u8
-#EXTINF:-1,BEIN MOVIES1 SD
-http://stream.shabakaty.com:6001/movies/ch1/ch1_360.m3u8
-#EXTINF:-1,BEIN MOVIES2 SD
-http://stream.shabakaty.com:6001/movies/ch2/ch2_360.m3u8
-#EXTINF:-1,BEIN MOVIES3 SD
-http://stream.shabakaty.com:6001/movies/ch3/ch3_360.m3u8
-#EXTINF:-1,BEIN MOVIES4 SD
-http://stream.shabakaty.com:6001/movies/ch4/ch4_360.m3u8
-#EXTINF:-1,BEIN SERIES SD1
-http://stream.shabakaty.com:6001/series/ch1/ch1_360.m3u8
-#EXTINF:-1,BEIN DRAMA SD1
-http://stream.shabakaty.com:6001/series/ch3/ch3_360.m3u8
-#EXTINF:-1,FOX MOVIES SD
-http://stream.shabakaty.com:6001/movies/ch5/ch5_360.m3u8
-#EXTINF:-1,FOX ACTION MOVIES SD
-http://stream.shabakaty.com:6001/movies/ch6/ch6_360.m3u8
-#EXTINF:-1,FOX FAMILY MOVIES SD
-http://stream.shabakaty.com:6001/movies/ch7/ch7_360.m3u8
-#EXTINF:-1,FOX SD
-http://stream.shabakaty.com:6001/movies/ch9/ch9_360.m3u8
-#EXTINF:-1,FOX CRIME SD
-http://stream.shabakaty.com:6001/movies/ch12/ch12_360.m3u8
-#EXTINF:-1,FX SD
-http://stream.shabakaty.com:6001/series/ch4/ch4_360.m3u8
-#EXTINF:-1,FOX RIWAEAT SD
-http://stream.shabakaty.com:6001/series/ch5/ch5_360.m3u8
-#EXTINF:-1,OSN YAHALA SD
-http://stream.shabakaty.com:6001/series/ch6/ch6_360.m3u8
-#EXTINF:-1,ON ARABIC SD
-http://stream.shabakaty.com:6001/movies/ch25/ch25_360.m3u8
-#EXTINF:-1,ON TURKY SD
-http://stream.shabakaty.com:6001/series/ch11/ch11_360.m3u8
-#EXTINF:-1,ON ARABIC SD
-http://stream.shabakaty.com:6001/movies/ch25/ch25_360.m3u8
-#EXTINF:-1,ON BOX OFFICE SD
-http://stream.shabakaty.com:6001/movies/ch26/ch26_360.m3u8
-#EXTINF:-1,ON BOLLYWOOD SD
-http://stream.shabakaty.com:6001/movies/ch27/ch27_360.m3u8
-#EXTINF:-1,ON COMEDY SD
-http://stream.shabakaty.com:6001/movies/ch28/ch28_360.m3u8
-#EXTINF:-1,SYFY SD
-http://stream.shabakaty.com:6001/series/ch7/ch7_360.m3u8
-#EXTINF:-1,TCM SD
-http://stream.shabakaty.com:6001/movies/ch8/ch8_360.m3u8
-#EXTINF:-1,CINEMA 1 SD
-http://stream.shabakaty.com:6001/movies/ch16/ch16_360.m3u8
-#EXTINF:-1,CINEMA 2 SD
-http://stream.shabakaty.com:6001/movies/ch17/ch17_360.m3u8
-#EXTINF:-1,ART CINEMA SD
-http://stream.shabakaty.com:6001/movies/ch21/ch21_360.m3u8
-#EXTINF:-1,ART AFLAM 1 SD
-http://stream.shabakaty.com:6001/movies/ch22/ch22_360.m3u8
-#EXTINF:-1,ART AFLAM 2 SD
-http://stream.shabakaty.com:6001/movies/ch23/ch23_360.m3u8
-#EXTINF:-1,AMC SD
-http://stream.shabakaty.com:6001/enter/ch17/ch17_360.m3u8
-#EXTINF:-1,MBC IRAQ SD
-http://stream.shabakaty.com:6001/enter/ch18/ch18_360.m3u8
-#EXTINF:-1,MBC+ VARIETY SD
-http://stream.shabakaty.com:6001/enter/ch25/ch25_360.m3u8
-#EXTINF:-1,MBC DRAMA+ SD
-http://stream.shabakaty.com:6001/series/ch8/ch8_360.m3u8
-#EXTINF:-1,TLC SD
-http://stream.shabakaty.com:6001/enter/ch21/ch21_360.m3u8
-#EXTINF:-1,E SD
-http://stream.shabakaty.com:6001/enter/ch22/ch22_360.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD
-http://stream.shabakaty.com:6001/enter/ch4/ch4_360.m3u8
-#EXTINF:-1,NAT GEO WILD SD
-http://stream.shabakaty.com:6001/enter/ch5/ch5_360.m3u8
-#EXTINF:-1,NAT GEO PEAPLE SD
-http://stream.shabakaty.com:6001/enter/ch16/ch16_360.m3u8
-#EXTINF:-1,HISTORY SD
-http://stream.shabakaty.com:6001/enter/ch26/ch26_360.m3u8
-#EXTINF:-1,HISTORY SD
-http://stream.shabakaty.com:6001/enter/ch20/ch20_360.m3u8
-#EXTINF:-1,HISTORY2 SD
-http://stream.shabakaty.com:6001/enter/ch29/ch29_360.m3u8
-#EXTINF:-1,ANIMAL PLANIT SD
-http://stream.shabakaty.com:6001/enter/ch6/ch6_360.m3u8
-#EXTINF:-1,PLANET EARTH SD
-http://stream.shabakaty.com:6001/enter/ch30/ch30_360.m3u8
-#EXTINF:-1,DISCOVERY SD
-http://stream.shabakaty.com:6001/enter/ch19/ch19_360.m3u8
-#EXTINF:-1,D SIENCE SD
-http://stream.shabakaty.com:6001/enter/ch24/ch24_360.m3u8
-#EXTINF:-1,DMAX SD
-http://stream.shabakaty.com:6001/enter/ch9/ch9_360.m3u8
-#EXTINF:-1,D FAMILY SD
-http://stream.shabakaty.com:6001/enter/ch27/ch27_360.m3u8
-#EXTINF:-1,DLIFE SD
-http://stream.shabakaty.com:6001/enter/ch2/ch2_360.m3u8
-#EXTINF:-1,DTX SD
-http://stream.shabakaty.com:6001/enter/ch3/ch3_360.m3u8
-#EXTINF:-1,ID SD
-http://stream.shabakaty.com:6001/enter/ch23/ch23_360.m3u8
-#EXTINF:-1,TRAVEL SD
-http://stream.shabakaty.com:6001/enter/ch11/ch11_360.m3u8
-#EXTINF:-1,OUTDOOR SD
-http://stream.shabakaty.com:6001/enter/ch10/ch10_360.m3u8
-#EXTINF:-1,HG TV SD
-http://stream.shabakaty.com:6001/enter/ch12/ch12_360.m3u8
-#EXTINF:-1,FINE LIVING SD
-http://stream.shabakaty.com:6001/enter/ch14/ch14_360.m3u8
-#EXTINF:-1,FOX LIFE SD
-http://stream.shabakaty.com:6001/enter/ch15/ch15_360.m3u8
-#EXTINF:-1,FASHION BOX SD
-http://stream.shabakaty.com:6001/enter/ch28/ch28_360.m3u8
-#EXTINF:-1,CBS REALITY SD
-http://stream.shabakaty.com:6001/enter/ch1/ch1_360.m3u8
-#EXTINF:-1,BEIN GOURMET SD
-http://stream.shabakaty.com:6001/enter/ch7/ch7_360.m3u8
-#EXTINF:-1,FATAFEAT SD
-http://stream.shabakaty.com:6001/enter/ch8/ch8_360.m3u8
-#EXTINF:-1,FOOD SD
-http://stream.shabakaty.com:6001/enter/ch13/ch13_360.m3u8
-#EXTINF:-1,BRAEAM SD
-http://stream.shabakaty.com:6001/kids/ch1/ch1_360.m3u8
-#EXTINF:-1,BABY TV SD
-http://stream.shabakaty.com:6001/kids/ch2/ch2_360.m3u8
-#EXTINF:-1,BOMERANG SD
-http://stream.shabakaty.com:6001/kids/ch3/ch3_360.m3u8
-#EXTINF:-1,CN NETWORK SD
-http://stream.shabakaty.com:6001/kids/ch4/ch4_360.m3u8
-#EXTINF:-DESNY SD
-http://stream.shabakaty.com:6001/kids/ch5/ch5_360.m3u8
-#EXTINF:-1,JIM JAM SD
-http://stream.shabakaty.com:6001/kids/ch6/ch6_360.m3u8
-#EXTINF:-1,BE JUNIOR SD
-http://stream.shabakaty.com:6001/kids/ch7/ch7_360.m3u8
-#EXTINF:-1,JEE SD
-http://stream.shabakaty.com:6001/kids/ch8/ch8_360.m3u8
-#EXTINF:-1,D KIDS SD
-http://stream.shabakaty.com:6001/kids/ch9/ch9_360.m3u8
-#EXTINF:-1,NICKELODEON SD
-http://stream.shabakaty.com:6001/kids/ch10/ch10_360.m3u8
-#EXTINF:-1,alnajar_HITECH_PLUSS
-http://stream.shabakaty.com:6001/sport/ch1/ch1_1080.m3u8
- #EXTINF:-1,BeinSport 1 SD2
-http://stream.shabakaty.com:6001/sport/ch1/ch1_240.m3u8
-#EXTINF:-1,BeinSport 2 SD2
-http://stream.shabakaty.com:6001/sport/ch2/ch2_240.m3u8
-#EXTINF:-1,BeinSport 3 SD2
-http://stream.shabakaty.com:6001/sport/ch3/ch3_240.m3u8
-#EXTINF:-1,BeinSport 4 SD2
-http://stream.shabakaty.com:6001/sport/ch4/ch4_240.m3u8
-#EXTINF:-1,BeinSport 5 SD2
-http://stream.shabakaty.com:6001/sport/ch5/ch5_240.m3u8
-#EXTINF:-1,BeinSport 6 SD2
-http://stream.shabakaty.com:6001/sport/ch6/ch6_240.m3u8
-#EXTINF:-1,BeinSport 7 SD2
-http://stream.shabakaty.com:6001/sport/ch7/ch7_240.m3u8
-#EXTINF:-1,BeinSport 8 SD2
-http://stream.shabakaty.com:6001/sport/ch8/ch8_240.m3u8
-#EXTINF:-1,BeinSport 9 SD2
-http://stream.shabakaty.com:6001/sport/ch9/ch9_240.m3u8
-#EXTINF:-1,BeinSport 10 SD2
-http://stream.shabakaty.com:6001/sport/ch10/ch10_240.m3u8
-#EXTINF:-1,BeinSport 11 SD2
-http://stream.shabakaty.com:6001/sport/ch11/ch11_240.m3u8
-#EXTINF:-1,BeinSport 12 SD2
-http://stream.shabakaty.com:6001/sport/ch12/ch12_240.m3u8
-#EXTINF:-1,BeinSport 13 SD2
-http://stream.shabakaty.com:6001/sport/ch13/ch13_240.m3u8
-#EXTINF:-1,OSN WWW SD2
-http://stream.shabakaty.com:6001/sport/ch14/ch14_240.m3u8
-#EXTINF:-1,Alkass 1 SD2
-http://stream.shabakaty.com:6001/sport/ch15/ch15_240.m3u8
-#EXTINF:-1,Alkass 2 SD2
-http://stream.shabakaty.com:6001/sport/ch16/ch16_240.m3u8
-#EXTINF:-1,Alkass 3 SD2
-http://stream.shabakaty.com:6001/sport/ch17/ch17_240.m3u8
-#EXTINF:-1,Alkass 4 SD2
-http://stream.shabakaty.com:6001/sport/ch18/ch18_240.m3u8
-#EXTINF:-1,Alkass 5 SD2
-http://stream.shabakaty.com:6001/sport/ch19/ch19_240.m3u8
-#EXTINF:-1,ADhabi SPORT 1 SD2
-http://stream.shabakaty.com:6001/sport/ch20/ch20_240.m3u8
-#EXTINF:-1,ADhabi SPORT 2 SD2
-http://stream.shabakaty.com:6001/sport/ch21/ch21_240.m3u8
-#EXTINF:-1,STAR MOVIES SD2
-http://stream.shabakaty.com:6001/movies/ch11/ch11_240.m3u8
-#EXTINF:-1,STAR WORLD SD2
-http://stream.shabakaty.com:6001/movies/ch10/ch10_240.m3u8
-#EXTINF:-1,OSN Movie SD2
-http://stream.shabakaty.com:6001/movies/ch13/ch13_240.m3u8
-#EXTINF:-1,OSN Movie FIRST SD2
-http://stream.shabakaty.com:6001/movies/ch15/ch15_240.m3u8
-#EXTINF:-1,OSN ON DEMAND SD2
-http://stream.shabakaty.com:6001/movies/ch20/ch20_240.m3u8
-#EXTINF:-1,OSN ACTION SD2
-http://stream.shabakaty.com:6001/movies/ch14/ch14_240.m3u8
-#EXTINF:-1,OSN SERIES FIRST SD2
-http://stream.shabakaty.com:6001/series/ch9/ch9_240.m3u8
-#EXTINF:-1,OSN COMEDY SD2
-http://stream.shabakaty.com:6001/movies/ch19/ch19_240.m3u8
-#EXTINF:-1,OSN ENIGMA SD2
-http://stream.shabakaty.com:6001/movies/ch24/ch24_240.m3u8
-#EXTINF:-1,OSN YAHALA CINEMA SD2
-http://stream.shabakaty.com:6001/movies/ch18/ch18_240.m3u8
-#EXTINF:-1,OSN YAHALA FIRST
-http://stream.shabakaty.com:6001/series/ch10/ch10_240.m3u8
-#EXTINF:-1,BEIN MOVIES1 SD2
-http://stream.shabakaty.com:6001/movies/ch1/ch1_240.m3u8
-#EXTINF:-1,BEIN MOVIES2 SD2
-http://stream.shabakaty.com:6001/movies/ch2/ch2_240.m3u8
-#EXTINF:-1,BEIN MOVIES3 SD2
-http://stream.shabakaty.com:6001/movies/ch3/ch3_240.m3u8
-#EXTINF:-1,BEIN MOVIES4 SD2
-http://stream.shabakaty.com:6001/movies/ch4/ch4_240.m3u8
-#EXTINF:-1,BEIN SERIES SD21
-http://stream.shabakaty.com:6001/series/ch1/ch1_240.m3u8
-#EXTINF:-1,BEIN DRAMA SD21
-http://stream.shabakaty.com:6001/series/ch3/ch3_240.m3u8
-#EXTINF:-1,FOX MOVIES SD2
-http://stream.shabakaty.com:6001/movies/ch5/ch5_240.m3u8
-#EXTINF:-1,FOX ACTION MOVIES SD2
-http://stream.shabakaty.com:6001/movies/ch6/ch6_240.m3u8
-#EXTINF:-1,FOX FAMILY MOVIES SD2
-http://stream.shabakaty.com:6001/movies/ch7/ch7_240.m3u8
-#EXTINF:-1,FOX SD2
-http://stream.shabakaty.com:6001/movies/ch9/ch9_240.m3u8
-#EXTINF:-1,FOX CRIME SD2
-http://stream.shabakaty.com:6001/movies/ch12/ch12_240.m3u8
-#EXTINF:-1,FX SD2
-http://stream.shabakaty.com:6001/series/ch4/ch4_240.m3u8
-#EXTINF:-1,FOX RIWAEAT SD2
-http://stream.shabakaty.com:6001/series/ch5/ch5_240.m3u8
-#EXTINF:-1,OSN YAHALA SD2
-http://stream.shabakaty.com:6001/series/ch6/ch6_240.m3u8
-#EXTINF:-1,ON ARABIC SD2
-http://stream.shabakaty.com:6001/movies/ch25/ch25_240.m3u8
-#EXTINF:-1,ON TURKY SD2
-http://stream.shabakaty.com:6001/series/ch11/ch11_240.m3u8
-#EXTINF:-1,ON ARABIC SD2
-http://stream.shabakaty.com:6001/movies/ch25/ch25_240.m3u8
-#EXTINF:-1,ON BOX OFFICE SD2
-http://stream.shabakaty.com:6001/movies/ch26/ch26_240.m3u8
-#EXTINF:-1,ON BOLLYWOOD SD2
-http://stream.shabakaty.com:6001/movies/ch27/ch27_240.m3u8
-#EXTINF:-1,ON COMEDY SD2
-http://stream.shabakaty.com:6001/movies/ch28/ch28_240.m3u8
-#EXTINF:-1,SYFY SD2
-http://stream.shabakaty.com:6001/series/ch7/ch7_240.m3u8
-#EXTINF:-1,TCM SD2
-http://stream.shabakaty.com:6001/movies/ch8/ch8_240.m3u8
-#EXTINF:-1,CINEMA 1 SD2
-http://stream.shabakaty.com:6001/movies/ch16/ch16_240.m3u8
-#EXTINF:-1,CINEMA 2 SD2
-http://stream.shabakaty.com:6001/movies/ch17/ch17_240.m3u8
-#EXTINF:-1,ART CINEMA SD2
-http://stream.shabakaty.com:6001/movies/ch21/ch21_240.m3u8
-#EXTINF:-1,ART AFLAM 1 SD2
-http://stream.shabakaty.com:6001/movies/ch22/ch22_240.m3u8
-#EXTINF:-1,ART AFLAM 2 SD2
-http://stream.shabakaty.com:6001/movies/ch23/ch23_240.m3u8
-#EXTINF:-1,AMC SD2
-http://stream.shabakaty.com:6001/enter/ch17/ch17_240.m3u8
-#EXTINF:-1,MBC IRAQ SD2
-http://stream.shabakaty.com:6001/enter/ch18/ch18_240.m3u8
-#EXTINF:-1,MBC+ VARIETY SD2
-http://stream.shabakaty.com:6001/enter/ch25/ch25_240.m3u8
-#EXTINF:-1,MBC DRAMA+ SD2
-http://stream.shabakaty.com:6001/series/ch8/ch8_240.m3u8
-#EXTINF:-1,TLC SD2
-http://stream.shabakaty.com:6001/enter/ch21/ch21_240.m3u8
-#EXTINF:-1,E SD2
-http://stream.shabakaty.com:6001/enter/ch22/ch22_240.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD2
-http://stream.shabakaty.com:6001/enter/ch4/ch4_240.m3u8
-#EXTINF:-1,NAT GEO WILD SD2
-http://stream.shabakaty.com:6001/enter/ch5/ch5_240.m3u8
-#EXTINF:-1,NAT GEO PEAPLE SD2
-http://stream.shabakaty.com:6001/enter/ch16/ch16_240.m3u8
-#EXTINF:-1,HISTORY SD2
-http://stream.shabakaty.com:6001/enter/ch26/ch26_240.m3u8
-#EXTINF:-1,HISTORY SD2
-http://stream.shabakaty.com:6001/enter/ch20/ch20_240.m3u8
-#EXTINF:-1,HISTORY2 SD2
-http://stream.shabakaty.com:6001/enter/ch29/ch29_240.m3u8
-#EXTINF:-1,ANIMAL PLANIT SD2
-http://stream.shabakaty.com:6001/enter/ch6/ch6_240.m3u8
-#EXTINF:-1,PLANET EARTH SD2
-http://stream.shabakaty.com:6001/enter/ch30/ch30_240.m3u8
-#EXTINF:-1,DISCOVERY SD2
-http://stream.shabakaty.com:6001/enter/ch19/ch19_240.m3u8
-#EXTINF:-1,D SIENCE SD2
-http://stream.shabakaty.com:6001/enter/ch24/ch24_240.m3u8
-#EXTINF:-1,DMAX SD2
-http://stream.shabakaty.com:6001/enter/ch9/ch9_240.m3u8
-#EXTINF:-1,D FAMILY SD2
-http://stream.shabakaty.com:6001/enter/ch27/ch27_240.m3u8
-#EXTINF:-1,DLIFE SD2
-http://stream.shabakaty.com:6001/enter/ch2/ch2_240.m3u8
-#EXTINF:-1,DTX SD2
-http://stream.shabakaty.com:6001/enter/ch3/ch3_240.m3u8
-#EXTINF:-1,ID SD2
-http://stream.shabakaty.com:6001/enter/ch23/ch23_240.m3u8
-#EXTINF:-1,TRAVEL SD2
-http://stream.shabakaty.com:6001/enter/ch11/ch11_240.m3u8
-#EXTINF:-1,OUTDOOR SD2
-http://stream.shabakaty.com:6001/enter/ch10/ch10_240.m3u8
-#EXTINF:-1,HG TV SD2
-http://stream.shabakaty.com:6001/enter/ch12/ch12_240.m3u8
-#EXTINF:-1,FINE LIVING SD2
-http://stream.shabakaty.com:6001/enter/ch14/ch14_240.m3u8
-#EXTINF:-1,FOX LIFE SD2
-http://stream.shabakaty.com:6001/enter/ch15/ch15_240.m3u8
-#EXTINF:-1,FASHION BOX SD2
-http://stream.shabakaty.com:6001/enter/ch28/ch28_240.m3u8
-#EXTINF:-1,CBS REALITY SD2
-http://stream.shabakaty.com:6001/enter/ch1/ch1_240.m3u8
-#EXTINF:-1,BEIN GOURMET SD2
-http://stream.shabakaty.com:6001/enter/ch7/ch7_240.m3u8
-#EXTINF:-1,FATAFEAT SD2
-http://stream.shabakaty.com:6001/enter/ch8/ch8_240.m3u8
-#EXTINF:-1,FOOD SD2
-http://stream.shabakaty.com:6001/enter/ch13/ch13_240.m3u8
-#EXTINF:-1,BRAEAM SD2
-http://stream.shabakaty.com:6001/kids/ch1/ch1_240.m3u8
-#EXTINF:-1,BABY TV SD2
-http://stream.shabakaty.com:6001/kids/ch2/ch2_240.m3u8
-#EXTINF:-1,BOMERANG SD2
-http://stream.shabakaty.com:6001/kids/ch3/ch3_240.m3u8
-#EXTINF:-1,CN NETWORK SD2
-http://stream.shabakaty.com:6001/kids/ch4/ch4_240.m3u8
-#EXTINF:-DESNY SD2
-http://stream.shabakaty.com:6001/kids/ch5/ch5_240.m3u8
-#EXTINF:-1,JIM JAM SD2
-http://stream.shabakaty.com:6001/kids/ch6/ch6_240.m3u8
-#EXTINF:-1,BE JUNIOR SD2
-http://stream.shabakaty.com:6001/kids/ch7/ch7_240.m3u8
-#EXTINF:-1,JEE SD2
-http://stream.shabakaty.com:6001/kids/ch8/ch8_240.m3u8
-#EXTINF:-1,D KIDS SD2
-http://stream.shabakaty.com:6001/kids/ch9/ch9_240.m3u8
-#EXTINF:-1,NICKELODEON SD2
-http://stream.shabakaty.com:6001/kids/ch10/ch10_240.m3u8
-#EXTINF:-1,alnajar_HITECH_PLUSS
-http://stream.shabakaty.com:6001/sport/ch1/ch1_240.m3u8
-#EXTINF:0 tvg-country="IQ" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="News",Al Iraqiya News
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,French ball
+
+http://stream.shabakaty.com:6001/sport/ch5/ch5_1080.m3u8
+
+#EXTINF:-1,English ball 3
+
+http://stream.shabakaty.com:6001/sport/ch6/ch6_1080.m3u8
+
+#EXTINF:-1,European ball 1
+
+http://stream.shabakaty.com:6001/sport/ch23/ch23_1080.m3u8
+
+#EXTINF:-1,European ball 2
+
+http://stream.shabakaty.com:6001/sport/ch8/ch8_1080.m3u8
+
+#EXTINF:-1,SSC1
+
+http://stream.shabakaty.com:6001/sport/ch9/ch9_1080.m3u8
+
+#EXTINF:-1,SSC2
+
+http://stream.shabakaty.com:6001/sport/ch10/ch10_720.m3u8
+
+#EXTINF:-1,Iraqi ball
+
+http://stream.shabakaty.com:6001/sport/ch11/ch11_720.m3u8
+
+#EXTINF:-1,Basketball
+
+http://stream.shabakaty.com:6001/sport/ch28/ch28_1080.m3u8
+
+#EXTINF:-1,Tennis
+
+http://stream.shabakaty.com:6001/sport/ch26/ch26_1080.m3u8
+
+#EXTINF:-1,On time sport 1
+
+http://stream.shabakaty.com:6015/sport/ch14/ch14_720.m3u8
+
+#EXTINF:-1,On time sport 2
+
+http://stream.shabakaty.com:6001/sport/ch15/ch15_1080.m3u8
+
+#EXTINF:-1,AD Sports 1
+
+http://stream.shabakaty.com:6001/sport/ch16/ch16_1080.m3u8
+
+#EXTINF:-1,AD Sports 2
+
+http://stream.shabakaty.com:6001/sport/ch17/ch17_1080.m3u8
+
+#EXTINF:-1,Alkass 1
+
+http://stream.shabakaty.com:6001/sport/ch18/ch18_720.m3u8
+
+#EXTINF:-1,Alkass 2
+
+http://stream.shabakaty.com:6001/sport/ch19/ch19_720.m3u8
+
+#EXTINF:-1,Al Ahad TV
+
+http://stream.shabakaty.com:6001/news/ch1/ch1_720.m3u8
+
+#EXTINF:-1,Al Sharqiya HD
+
+http://stream.shabakaty.com:6001/news/ch2/ch2_720.m3u8
+
+#EXTINF:-1,Al Sharqiya News
+
+http://stream.shabakaty.com:6001/news/ch3/ch3_720.m3u8
+
+#EXTINF:-1,Afaq TV
+
+http://stream.shabakaty.com:6001/news/ch4/ch4_720.m3u8
+
+#EXTINF:-1,ALhurra Iraq
+
+http://stream.shabakaty.com:6001/news/ch5/ch5_720.m3u8
+
+#EXTINF:-1,Etejah TV
+
+http://stream.shabakaty.com:6001/news/ch6/ch6_720.m3u8
+
+#EXTINF:-1,AL-Forat
+
+http://stream.shabakaty.com:6001/news/ch7/ch7_720.m3u8
+
+#EXTINF:-1,Karbala TV
+
+http://stream.shabakaty.com:6001/news/ch8/ch8_720.m3u8
+
+#EXTINF:-1,Al Anwar TV
+
+http://stream.shabakaty.com:6001/news/ch9/ch9_720.m3u8
+
+#EXTINF:-1,Al Mayadeen News
+
+http://stream.shabakaty.com:6001/news/ch10/ch10_720.m3u8
+
+#EXTINF:-1,france 24 Arabic
+
+http://stream.shabakaty.com:6001/news/ch11/ch11_720.m3u8
+
+#EXTINF:-1,BBC Arabic
+
+http://stream.shabakaty.com:6001/news/ch12/ch12_720.m3u8
+
+#EXTINF:-1,DW
+
+http://stream.shabakaty.com:6001/news/ch13/ch13_720.m3u8
+
+#EXTINF:-1,CNN News
+
+http://stream.shabakaty.com:6001/news/ch14/ch14_720.m3u8
+
+#EXTINF:-1,BBC English
+
+http://stream.shabakaty.com:6001/news/ch15/ch15_720.m3u8
+
+#EXTINF:-1,ALjazeera English
+
+http://stream.shabakaty.com:6001/news/ch16/ch16_720.m3u8
+
+#EXTINF:-1,france 24 English
+
+http://stream.shabakaty.com:6001/news/ch17/ch17_720.m3u8
+
+#EXTINF:-1,TRT English
+
+http://stream.shabakaty.com:6001/news/ch18/ch18_720.m3u8
+
+#EXTINF:-1,Euro News English
+
+http://stream.shabakaty.com:6001/news/ch19/ch19_720.m3u8
+
+#EXTINF:-1,ALjazeera
+
+http://stream.shabakaty.com:6001/news/ch20/ch20_720.m3u8
+
+#EXTINF:-1,Hona Baghdad
+
+http://stream.shabakaty.com:6001/news/ch21/ch21_720.m3u8
+
+#EXTINF:-1,24 Iraq
+
+http://stream.shabakaty.com:6001/news/ch22/ch22_720.m3u8
+
+#EXTINF:-1,Fox News
+
+http://stream.shabakaty.com:6001/news/ch23/ch23_720.m3u8
+
+#EXTINF:-1,Osn News
+
+http://stream.shabakaty.com:6001/news/ch24/ch24_720.m3u8
+
+#EXTINF:-1,SSC News
+
+http://stream.shabakaty.com:6001/news/ch25/ch25_720.m3u8
+
+#EXTINF:-1,RT News
+
+http://stream.shabakaty.com:6001/news/ch26/ch26_720.m3u8
+
+#EXTINF:-1,ALarabiya
+
+http://stream.shabakaty.com:6001/news/ch27/ch27_720.m3u8
+
+#EXTINF:-1,ALhadath
+
+http://stream.shabakaty.com:6001/news/ch28/ch28_720.m3u8
+
+#EXTINF:-1,Alsumaria TV
+
+http://stream.shabakaty.com:6001/news/ch29/ch29_720.m3u8
+
+#EXTINF:-1,Cinemana Box Office
+
+http://stream.shabakaty.com:6001/movies/ch1/ch1_1080.m3u8
+
+#EXTINF:-1,Cinemana Animation 
+
+http://stream.shabakaty.com:6001/movies/ch2/ch2_720.m3u8
+
+#EXTINF:-1,Cinemana Home Of movies
+
+http://stream.shabakaty.com:6001/movies/ch3/ch3_1080.m3u8
+
+#EXTINF:-1,Cinemana Action 
+
+http://stream.shabakaty.com:6001/movies/ch4/ch4_720.m3u8
+
+#EXTINF:-1,Rotana Cinema egypt
+
+http://stream.shabakaty.com:6001/movies/ch5/ch5_720.m3u8
+
+#EXTINF:-1,Rotana Cinema Ksa
+
+http://stream.shabakaty.com:6001/movies/ch6/ch6_720.m3u8
+
+#EXTINF:-1,Rotana Classic
+
+http://stream.shabakaty.com:6001/movies/ch7/ch7_720.m3u8
+
+#EXTINF:-1,Movies HD 8
+
+http://stream.shabakaty.com:6001/movies/ch8/ch8_720.m3u8
+
+#EXTINF:-1,Movies HD 9
+
+http://stream.shabakaty.com:6001/movies/ch9/ch9_720.m3u8
+
+#EXTINF:-1,Movies HD 10
+
+http://stream.shabakaty.com:6001/movies/ch10/ch10_720.m3u8
+
+#EXTINF:-1,Movies HD11
+
+http://stream.shabakaty.com:6001/movies/ch11/ch11_720.m3u8
+
+#EXTINF:-1,Art cinema
+
+http://stream.shabakaty.com:6001/movies/ch12/ch12_720.m3u8
+
+#EXTINF:-1,Movies HD 13
+
+http://stream.shabakaty.com:6001/movies/ch13/ch13_720.m3u8
+
+#EXTINF:-1,Alfa Cinema 1
+
+http://stream.shabakaty.com:6001/movies/ch14/ch14_1080.m3u8
+
+#EXTINF:-1,Real px action
+
+http://stream.shabakaty.com:6001/movies/ch15/ch15_720.m3u8
+
+#EXTINF:-1,Real px family
+
+http://stream.shabakaty.com:6001/movies/ch16/ch16_720.m3u8
+
+#EXTINF:-1,Real px unlimited
+
+http://stream.shabakaty.com:6001/movies/ch17/ch17_720.m3u8
+
+#EXTINF:-1,Real px comedy
+
+http://stream.shabakaty.com:6001/movies/ch18/ch18_720.m3u8
+
+#EXTINF:-1,Film box
+
+http://stream.shabakaty.com:6001/movies/ch19/ch19_720.m3u8
+
+#EXTINF:-1,Film box action
+
+http://stream.shabakaty.com:6001/movies/ch20/ch20_720.m3u8
+
+#EXTINF:-1,Film box Family
+
+http://stream.shabakaty.com:6001/movies/ch21/ch21_720.m3u8
+
+#EXTINF:-1,Film box art house
+
+http://stream.shabakaty.com:6001/movies/ch22/ch22_720.m3u8
+
+#EXTINF:-1,Mbc 2
+
+http://stream.shabakaty.com:6001/movies/ch23/ch23_720.m3u8
+
+#EXTINF:-1,Mbc Action
+
+http://stream.shabakaty.com:6001/movies/ch24/ch24_720.m3u8
+
+#EXTINF:-1,Mbc Bollywood
+
+http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
+
+#EXTINF:-1,Cinemana Anime
+
+http://stream.shabakaty.com:6001/series/ch1/ch1_720.m3u8
+
+#EXTINF:-1,Cinemana Anime Onoing
+
+http://stream.shabakaty.com:6001/series/ch2/ch2_720.m3u8
+
+#EXTINF:-1,Cinemana Series
+
+http://stream.shabakaty.com:6001/series/ch3/ch3_720.m3u8
+
+#EXTINF:-1,Cinemana Series Ongoing
+
+http://stream.shabakaty.com:6001/series/ch4/ch4_720.m3u8
+
+#EXTINF:-1,Cinemana Turkish & Arabic
+
+http://stream.shabakaty.com:6001/series/ch5/ch5_720.m3u8
+
+#EXTINF:-1,Series HD 6
+
+http://stream.shabakaty.com:6001/series/ch6/ch6_720.m3u8
+
+#EXTINF:-1,Series HD 7
+
+http://stream.shabakaty.com:6001/series/ch7/ch7_720.m3u8
+
+#EXTINF:-1, MBC Drama
+
+http://stream.shabakaty.com:6001/series/ch8/ch8_720.m3u8
+
+#EXTINF:-1,Rotana drama
+
+http://stream.shabakaty.com:6001/series/ch9/ch9_720.m3u8
+
+#EXTINF:-1,Al Nahar One
+
+http://stream.shabakaty.com:6001/series/ch10/ch10_720.m3u8
+
+#EXTINF:-1,Cbc Drama
+
+http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
+
+#EXTINF:-1,Mbc e life
+
+http://stream.shabakaty.com:6001/series/ch12/ch12_720.m3u8
+
+#EXTINF:-1,Helwa
+
+http://stream.shabakaty.com:6001/series/ch13/ch13_720.m3u8
+
+#EXTINF:-1,Tdc
+
+http://stream.shabakaty.com:6001/series/ch14/ch14_720.m3u8
+
+#EXTINF:-1,Art hekayat 1
+
+http://stream.shabakaty.com:6001/series/ch15/ch15_720.m3u8
+
+#EXTINF:-1,Art hekayat 2
+
+http://stream.shabakaty.com:6001/series/ch16/ch16_720.m3u8
+
+#EXTINF:-1,Mosalsalat 1
+
+http://stream.shabakaty.com:6001/series/ch17/ch17_720.m3u8
+
+#EXTINF:-1,Mosalsalat 2
+
+http://stream.shabakaty.com:6001/series/ch18/ch18_720.m3u8
+
+#EXTINF:-1,Series Prime
+
+http://stream.shabakaty.com:6001/series/ch19/ch19_720.m3u8
+
+#EXTINF:-1,Showcase
+
+http://stream.shabakaty.com:6001/series/ch20/ch20_720.m3u8
+
+#EXTINF:-1,Alhayah Series
+
+http://stream.shabakaty.com:6001/series/ch21/ch21_720.m3u8
+
+#EXTINF:-1,Mezze
+
+http://stream.shabakaty.com:6001/enter/ch1/ch1_720.m3u8
+
+#EXTINF:-1,MBC iraq HD
+
+http://stream.shabakaty.com:6001/enter/ch2/ch2_720.m3u8
+
+#EXTINF:-1,fashion tv
+
+http://stream.shabakaty.com:6001/enter/ch3/ch3_720.m3u8
+
+#EXTINF:-1,Tlc
+
+http://stream.shabakaty.com:6001/enter/ch4/ch4_720.m3u8
+
+#EXTINF:-1,Living
+
+http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
+
+#EXTINF:-1,Discovery Science
+
+http://stream.shabakaty.com:6001/enter/ch6/ch6_720.m3u8
+
+#EXTINF:-1,Idx
+
+http://stream.shabakaty.com:6001/enter/ch7/ch7_720.m3u8
+
+#EXTINF:-1,Rotana Clip
+
+http://stream.shabakaty.com:6001/enter/ch8/ch8_720.m3u8
+
+#EXTINF:-1,Rotana Music
+
+http://stream.shabakaty.com:6001/enter/ch9/ch9_720.m3u8
+
+#EXTINF:-1,Rotana Khalejia
+
+http://stream.shabakaty.com:6001/enter/ch10/ch10_720.m3u8
+
+#EXTINF:-1,Cbc
+
+http://stream.shabakaty.com:6001/enter/ch11/ch11_720.m3u8
+
+#EXTINF:-1,Dubai
+
+http://stream.shabakaty.com:6001/enter/ch12/ch12_720.m3u8
+
+#EXTINF:-1,History
+
+http://stream.shabakaty.com:6001/enter/ch13/ch13_720.m3u8
+
+#EXTINF:-1,E HD
+
+http://stream.shabakaty.com:6001/enter/ch14/ch14_720.m3u8
+
+#EXTINF:-1,MBC 1
+
+http://stream.shabakaty.com:6001/enter/ch15/ch15_720.m3u8
+
+#EXTINF:-1,MBC 4
+
+http://stream.shabakaty.com:6001/enter/ch16/ch16_720.m3u8
+
+#EXTINF:-1,MBC Masr
+
+http://stream.shabakaty.com:6001/enter/ch17/ch17_720.m3u8
+
+#EXTINF:-1,LBC
+
+http://stream.shabakaty.com:6001/enter/ch18/ch18_720.m3u8
+
+#EXTINF:-1,MTV
+
+http://stream.shabakaty.com:6001/enter/ch19/ch19_720.m3u8
+
+#EXTINF:-1,Nat Geo Abu Dhabi
+
+http://stream.shabakaty.com:6001/enter/ch20/ch20_720.m3u8
+
+#EXTINF:-1,History 2
+
+http://stream.shabakaty.com:6001/enter/ch21/ch21_720.m3u8
+
+#EXTINF:-1,Mbc 5
+
+http://stream.shabakaty.com:6001/enter/ch22/ch22_720.m3u8
+
+#EXTINF:-1,Mbc variety
+
+http://stream.shabakaty.com:6001/enter/ch23/ch23_720.m3u8
+
+#EXTINF:-1,Fast box fun
+
+http://stream.shabakaty.com:6001/enter/ch24/ch24_720.m3u8
+
+#EXTINF:-1,360 fune box
+
+http://stream.shabakaty.com:6001/enter/ch25/ch25_720.m3u8
+
+#EXTINF:-1,Planet earth
+
+http://stream.shabakaty.com:6001/enter/ch26/ch26_720.m3u8
+
+#EXTINF:-1,Documentary pil arabic
+
+http://stream.shabakaty.com:6001/enter/ch27/ch27_720.m3u8
+
+#EXTINF:-1,Awe
+
+http://stream.shabakaty.com:6001/enter/ch28/ch28_720.m3u8
+
+#EXTINF:-1,M+
+
+http://stream.shabakaty.com:6001/enter/ch29/ch29_720.m3u8
+
+#EXTINF:-1,Rotana+
+
+http://stream.shabakaty.com:6001/enter/ch31/ch31_720.m3u8
+
+#EXTINF:-1,Thekhayal
+
+http://stream.shabakaty.com:6001/enter/ch32/ch32_720.m3u8
+
+#EXTINF:-1,Ducu box
+
+http://stream.shabakaty.com:6001/enter/ch33/ch33_720.m3u8
+
+#EXTINF:-1,Kids
+
+http://stream.shabakaty.com:6001/kids/ch1/ch1_720.m3u8
+
+#EXTINF:-1,Kids Zone
+
+http://stream.shabakaty.com:6001/kids/ch2/ch2_720.m3u8
+
+#EXTINF:-1,Disney
+
+http://stream.shabakaty.com:6001/kids/ch3/ch3_720.m3u8
+
+#EXTINF:-1,MBC 3
+
+http://stream.shabakaty.com:6001/kids/ch4/ch4_720.m3u8
+
+#EXTINF:-1,Spacetoon
+
+http://stream.shabakaty.com:6001/kids/ch5/ch5_720.m3u8
+
+#EXTINF:-1,Nickelodeon
+
+http://stream.shabakaty.com:6001/kids/ch6/ch6_720.m3u8
+
+#EXTINF:-1,Guli bil arabic
+
+http://stream.shabakaty.com:6001/kids/ch7/ch7_720.m3u8
+
+#EXTINF:-1,Zoomoo
+
+http://stream.shabakaty.com:6001/kids/ch8/ch8_720.m3u8
+
+#EXTINF:-1,Laab e jad
+
+http://stream.shabakaty.com:6001/kids/ch9/ch9_720.m3u8
+
+#EXTINF:-1,Stc kids
+
+http://stream.shabakaty.com:6001/kids/ch10/ch10_720.m3u8
+
+#EXTINF:-1,Moon bug kids
+
+http://stream.shabakaty.com:6001/kids/ch11/ch11_720.m3u8
+
+#EXTINF:-1,Nick jr
+
+http://stream.shabakaty.com:6001/kids/ch12/ch12_720.m3u8
+
+#EXTINF:-1,Disney jr
+
+http://stream.shabakaty.com:6001/kids/ch13/ch13_720.m3u8
+
+#EXTINF:-1,Al-Iraqi Sport
+
+https://livestream.almanasa.tv:8130/sport/ch6/ch6_1080.m3u8
+
+#EXTINF:-1,Al-Rabeaa Sports
+
+https://livestream.almanasa.tv:8135/sport/ch10/ch10_720.m3u8
+
+#EXTINF:-1,Al-Rabeaa Sport 1
+
+https://livestream.almanasa.tv:8128/sport/ch4/ch4_1080.m3u8
+
+#EXTINF:-1,Al-Rabeaa Sport 2
+
+https://livestream.almanasa.tv:8129/sport/ch5/ch5_1080.m3u8
+
+#EXTINF:-1,Al-Rabeaa Sport 3
+
+https://livestream.almanasa.tv:8125/sport/ch1/ch1_1080.m3u8
+
+#EXTINF:-1,AD sport 1
+
+https://livestream.almanasa.tv:8126/sport/ch2/ch2_1080.m3u8
+
+#EXTINF:-1,AD sport 2
+
+https://livestream.almanasa.tv:8127/sport/ch3/ch3_1080.m3u8
+
+#EXTINF:-1,Abu Dhabi Premium 1
+
+https://livestream.almanasa.tv:8132/sport/ch7/ch7_1080.m3u8
+
+#EXTINF:-1,Abu Dhabi Premium 2
+
+https://livestream.almanasa.tv:8133/sport/ch8/ch8_1080.m3u8
+
+#EXTINF:-1,STARZPLAY
+
+https://livestream.almanasa.tv:8134/sport/ch9/ch9_1080.m3u8
+
+#EXTINF:-1,Al Ahad TV
+
+https://livestream.almanasa.tv:8019/news/ch7/ch7_1080.m3u8
+
+#EXTINF:-1,Iraqi Turkmen
+
+https://livestream.almanasa.tv:8009/news/ch10/ch10_1080.m3u8
+
+#EXTINF:-1,Iraqi Kurdish
+
+https://livestream.almanasa.tv:8021/news/ch11/ch11_1080.m3u8
+
+#EXTINF:-1,Syriac Iraqi
+
+https://livestream.almanasa.tv:8022/news/ch12/ch12_1080.m3u8
+
+#EXTINF:-1,Utv
+
+https://livestream.almanasa.tv:8023/news/ch13/ch13_1080.m3u8
+
+#EXTINF:-1,Al-Ayyam TV
+
+https://livestream.almanasa.tv:8024/news/ch14/ch14_1080.m3u8
+
+#EXTINF:-1,AL janoub TV
+
+https://livestream.almanasa.tv:8025/news/ch15/ch15_1080.m3u8
+
+#EXTINF:-1,1 TV
+
+https://livestream.almanasa.tv:8026/news/ch16/ch16_1080.m3u8
+
+#EXTINF:-1,ALSumaria
+
+https://livestream.almanasa.tv:8027/news/ch17/ch17_1080.m3u8
+
+#EXTINF:-1,Babel TV
+
+https://livestream.almanasa.tv:8028/news/ch18/ch18_1080.m3u8
+
+#EXTINF:-1,12 Arabia
+
+https://livestream.almanasa.tv:8029/news/ch19/ch19_1080.m3u8
+
+#EXTINF:-1,24 Iraq
+
+https://livestream.almanasa.tv:8006/news/ch2/ch2_1080.m3u8
+
+#EXTINF:-1,Al-Etejah
+
+https://livestream.almanasa.tv:8001/news/ch20/ch20_1080.m3u8
+
+#EXTINF:-1,Sky News Arabic
+
+https://livestream.almanasa.tv:8031/news/ch21/ch21_1080.m3u8
+
+#EXTINF:-1,ALNOJABA
+
+https://livestream.almanasa.tv:8032/news/ch22/ch22_1080.m3u8
+
+#EXTINF:-1,Al-Fallujah TV
+
+https://livestream.almanasa.tv:8033/news/ch23/ch23_1080.m3u8
+
+#EXTINF:-1,Al-Masra TV
+
+https://livestream.almanasa.tv:8034/news/ch24/ch24_1080.m3u8
+
+#EXTINF:-1,Samarra TV
+
+https://livestream.almanasa.tv:8035/news/ch25/ch25_1080.m3u8
+
+#EXTINF:-1,Hala TV
+
+https://livestream.almanasa.tv:8036/news/ch26/ch26_1080.m3u8
+
+#EXTINF:-1,Kirkuk TV
+
+https://livestream.almanasa.tv:8037/news/ch27/ch27_1080.m3u8
+
+#EXTINF:-1,Gali Kurdistan
+
+https://livestream.almanasa.tv:8038/news/ch28/ch28_1080.m3u8
+
+#EXTINF:-1,Afaq TV
+
+https://livestream.almanasa.tv:8039/news/ch29/ch29_1080.m3u8
+
+#EXTINF:-1,Dijlah
+
+https://livestream.almanasa.tv:8012/news/ch3/ch3_1080.m3u8
+
+#EXTINF:-1,Al-Taghier TV
+
+https://livestream.almanasa.tv:8040/news/ch30/ch30_1080.m3u8
+
+#EXTINF:-1,Al-Forat
+
+https://livestream.almanasa.tv:8011/news/ch4/ch4_1080.m3u8
+
+#EXTINF:-1,Al-Rasheed
+
+https://livestream.almanasa.tv:8007/news/ch5/ch5_1080.m3u8
+
+#EXTINF:-1,Al-Iraqi
+
+https://livestream.almanasa.tv:8002/news/ch6/ch6_1080.m3u8
+
+#EXTINF:-1,Al-Iraqi News
+
+https://livestream.almanasa.tv:8005/news/ch1/ch1_1080.m3u8
+
+#EXTINF:-1,Al-Rabeaa News
+
+https://livestream.almanasa.tv:8008/news/ch8/ch8_1080.m3u8
+
+#EXTINF:-1,iNews
+
+https://livestream.almanasa.tv:8020/news/ch9/ch9_1080.m3u8
+
+#EXTINF:-1,Orangeey
+
+https://livestream.almanasa.tv:8015/series/ch2/ch2_1080.m3u8
+
+#EXTINF:-1,Bilarabi
+
+https://livestream.almanasa.tv:8016/series/ch1/ch1_1080.m3u8
+
+#EXTINF:-1,Levant
+
+https://livestream.almanasa.tv:8017/series/ch8/ch8_1080.m3u8
+
+#EXTINF:-1,Arab Gulf
+
+https://livestream.almanasa.tv:8018/series/ch7/ch7_1080.m3u8
+
+#EXTINF:-1,Radio Zaman
+
+https://livestream.almanasa.tv:8069/series/ch3/ch3_1080.m3u8
+
+#EXTINF:-1,Radio Sammani
+
+https://livestream.almanasa.tv:8070/series/ch4/ch4_1080.m3u8
+
+#EXTINF:-1,Comedy
+
+https://livestream.almanasa.tv:8075/series/ch11/ch11_1080.m3u8
+
+#EXTINF:-1,Dijlah Zaman
+
+https://livestream.almanasa.tv:8014/enter/ch30/ch30_720.m3u8
+
+#EXTINF:-1,Ch4teen Clip
+
+https://livestream.almanasa.tv:8049/enter/ch10/ch10_1080.m3u8
+
+#EXTINF:-1,Hawa Baghdad
+
+https://livestream.almanasa.tv:8050/enter/ch11/ch11_1080.m3u8
+
+#EXTINF:-1,One Iraq
+
+https://livestream.almanasa.tv:8051/enter/ch12/ch12_1080.m3u8
+
+#EXTINF:-1,Al-Rabeaa Movies
+
+https://livestream.almanasa.tv:8041/enter/ch2/ch2_1080.m3u8
+
+#EXTINF:-1,Al-Rabeaa Music
+
+https://livestream.almanasa.tv:8042/enter/ch3/ch3_1080.m3u8
+
+#EXTINF:-1,Al-Rabeaa Series En
+
+https://livestream.almanasa.tv:8043/enter/ch4/ch4_1080.m3u8
+
+#EXTINF:-1,Al-Rabeaa Variety
+
+https://livestream.almanasa.tv:8044/enter/ch5/ch5_1080.m3u8
+
+#EXTINF:-1,Shehab
+
+https://livestream.almanasa.tv:8045/enter/ch6/ch6_1080.m3u8
+
+#EXTINF:-1,Karbala Documentary
+
+https://livestream.almanasa.tv:8046/enter/ch7/ch7_1080.m3u8
+
+#EXTINF:-1,Ch4teen Kids
+
+https://livestream.almanasa.tv:8047/enter/ch8/ch8_1080.m3u8
+
+#EXTINF:-1,Ch4teen Documentary
+
+https://livestream.almanasa.tv:8048/enter/ch9/ch9_1080.m3u8
+
+#EXTINF:-1,Al-ghadeer TV
+
+https://livestream.almanasa.tv:8084/islamic/ch10/ch10_1080.m3u8
+
+#EXTINF:-1,CH4 Teen
+
+https://livestream.almanasa.tv:8001/islamic/ch11/ch11_1080.m3u8
+
+#EXTINF:-1,Ch4teen Quran
+
+https://livestream.almanasa.tv:8001/islamic/ch12/ch12_1080.m3u8
+
+#EXTINF:-1,Ch4teen Live 1
+
+https://livestream.almanasa.tv:8001/islamic/ch13/ch13_1080.m3u8
+
+#EXTINF:-1,Ch4teen Live 2
+
+https://livestream.almanasa.tv:8001/islamic/ch14/ch14_1080.m3u8
+
+#EXTINF:-1,Ch4teen Live 3
+
+https://livestream.almanasa.tv:8001/islamic/ch15/ch15_1080.m3u8
+
+#EXTINF:-1,Ch4teen Live 4
+
+https://livestream.almanasa.tv:8001/islamic/ch16/ch16_1080.m3u8
+
+#EXTINF:-1,Diwan TV
+
+https://livestream.almanasa.tv:8001/islamic/ch17/ch17_1080.m3u8
+
+#EXTINF:-1,Al Quran
+
+https://livestream.almanasa.tv:8116/islamic/ch2/ch2_1080.m3u8
+
+#EXTINF:-1,Karbala
+
+https://livestream.almanasa.tv:8117/islamic/ch3/ch3_1080.m3u8
+
+#EXTINF:-1,Al Jawadain
+
+https://livestream.almanasa.tv:8118/islamic/ch4/ch4_1080.m3u8
+
+#EXTINF:-1,Safeer TV
+
+https://livestream.almanasa.tv:8115/islamic/ch1/ch1_1080.m3u8
+
+#EXTINF:-1,Al-Rabeaa Quran
+
+https://livestream.almanasa.tv:8119/islamic/ch5/ch5_1080.m3u8
+
+#EXTINF:-1,Al Mawakeb
+
+https://livestream.almanasa.tv:8001/islamic/ch6/ch6_1080.m3u8
+
+#EXTINF:-1,Saout Al Aqilla
+
+https://livestream.almanasa.tv:8001/islamic/ch7/ch7_1080.m3u8
+
+#EXTINF:-1,Al Anis
+
+https://livestream.almanasa.tv:8001/islamic/ch8/ch8_1080.m3u8
+
+#EXTINF:-1,Al Hujja
+
+https://livestream.almanasa.tv:8001/islamic/ch9/ch9_1080.m3u8
